@@ -1,8 +1,8 @@
 ## Interface: 30300
 ## Title: Zaes Tools Announce
-## Notes: Simple party/emote announcer for interrupts, OOM-on-heal, and CC (apply/break/dispels/fades). Minimal options.
+## Notes: Simple party/emote/silent announcer for interrupts, OOM-on-heal, and CC (apply/break/dispels/fades). Minimal options.
 ## Author: ChatGPT feat. Zaes
-## Version: 2.0.0
+## Version: 2.1.0
 ## SavedVariables: ZaesToolsAnnounceDB
 
 ZaesToolsAnnounce.lua
