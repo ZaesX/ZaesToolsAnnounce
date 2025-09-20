@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: Zaes Tools Announce
+## Notes: Party-focused announcements: interrupts, OOM-on-heal, CC (apply/break/dispels/fades), markers, presets, rich options (WotLK/3.3.5).
+## Author: ChatGPT feat. Zaes
+## Version: 1.5.4
+## SavedVariables: ZaesToolsAnnounceDB
+
+ZaesToolsAnnounce.lua
+ZaesToolsAnnounce_Options.lua
